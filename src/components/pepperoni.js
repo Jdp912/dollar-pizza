@@ -4,7 +4,7 @@ import './css/slice.css';
 
 function Pepperoni() {
   return(
-    <div className="Pepperoni col-4">
+    <div className="pepperoni col-4">
       <div className="card">
         <img src={ pepperoni } class="card-img-top" alt="..."/>
         <div className="card-body">
@@ -19,4 +19,4 @@ function Pepperoni() {
   );
 }
 
-export default Pepperoni;
+export default pepperoni;

@@ -4,7 +4,7 @@ import './css/slice.css';
 
 function Veggie() {
   return(
-    <div className="Veggie col-4">
+    <div className="veggie col-4">
       <div className="card">
         <img src={ veggie } class="card-img-top" alt="..."/>
         <div className="card-body">
@@ -19,4 +19,4 @@ function Veggie() {
   );
 }
 
-export default Veggie;
+export default veggie;
